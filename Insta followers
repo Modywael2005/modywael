@@ -1,0 +1,12 @@
+
+
+using in the Termux↓↓
+
+$ pkg up -y
+$ pkg install python
+$ pkg install python2 -y
+$ pkg install openssl-tool
+$ pkg install curl 
+$ pkg install git
+$ pkg install bash
+$ git clone https://github.com/SidraELEzz/InstagramV1
